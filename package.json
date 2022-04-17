@@ -1,0 +1,8 @@
+{
+  "name": "simple-cache",
+  "version": "0.0.1",
+  "description": "Runtime cache as simple as possible",
+  "main": "index.js",
+  "author": "Arlan Dantas",
+  "license": "MIT"
+}
